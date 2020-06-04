@@ -5,7 +5,7 @@
 # Jean Henry
 <sub>*Analista de Dados*</sub>
 
-Como analista de dados, com experiencia no ramo de OBRA CIVIL, Call Center, Saúde.
+Como Analista de Dados,experiencia no setor de obra civil, call center , area de sáude 
 
 **Background in:** PowerBI, Python, VBA, SQLServer.
 
