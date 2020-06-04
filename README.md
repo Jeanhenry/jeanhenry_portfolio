@@ -1,2 +1,2 @@
 # jeanhenry_powerbi
-Meu portfólio sobre PowerBI
+Meu Portfólio de PowerBI
