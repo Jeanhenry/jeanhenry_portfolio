@@ -13,8 +13,9 @@ Como Analista de Dados,experiencia no setor de obra civil, call center , area de
 * [LinkedIn](www.linkedin.com/in/jeanhenr)
 
 
-## Projetos:
-Veja os tutoriais publicados do Jean:
+## Principais Projetos:
+
+_**Analisando dataset da Airbnb no estado do RJ**_ : https://bityli.com/TkaAX
 
 ---
 
