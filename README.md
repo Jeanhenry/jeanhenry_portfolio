@@ -5,9 +5,15 @@
 # Jean Henry
 <sub>*Analista de Dados*</sub>
 
-Como Analista de Dados,experiencia no setor de obra civil, call center , area de sáude 
+Como Analista de Dados, tive a oportunidade de trabalhar em alguns projetos voltado para obra civil, desenvolvendo Dashbaord interativo, para atender a Gerência, na área de call center, inicei com o PowerBI junto com outras ferramentas (VBA e SQLServer) com intuito de otmizar o processo dos principais setores (QUALIDADE, INSTRUTORIA, PLANEJAMENTO e OPERAÇÃO), na área da saúde, trabalhei na SECRETARIA MUNICPAL DO RJ, implementando PowerBI, onde cada equipe teria de fácil acesso e entender o real cenário de cada clinica da familia.
 
-**Background in:** PowerBI, Python, VBA, SQLServer.
+**Background in:** 
+* PowerBI
+* Python
+* VBA
+* SQLServer
+* SQL Server Integration Services
+* Power Automate (Flow)
 
 **Links:**
 * [LinkedIn](www.linkedin.com/in/jeanhenr)
@@ -15,7 +21,6 @@ Como Analista de Dados,experiencia no setor de obra civil, call center , area de
 
 ## Principais Projetos:
 
-_**Analisando dataset da Airbnb no estado do RJ**_ : https://bityli.com/TkaAX
 
 ---
 
