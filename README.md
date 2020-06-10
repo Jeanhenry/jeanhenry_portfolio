@@ -7,7 +7,7 @@
 
 Como Analista de Dados, tive a oportunidade de trabalhar em alguns projetos voltado para obra civil, desenvolvendo Dashbaord interativo, para atender a Gerência, na área de call center, inicei com o PowerBI junto com outras ferramentas (VBA e SQLServer) com intuito de otmizar o processo dos principais setores (QUALIDADE, INSTRUTORIA, PLANEJAMENTO e OPERAÇÃO), na área da saúde, trabalhei na SECRETARIA MUNICPAL DO RJ, implementando PowerBI, onde cada equipe teria de fácil acesso e entender o real cenário de cada clinica da familia.
 
-**Background in:** 
+**Principais Skill:** 
 * PowerBI
 * Python
 * VBA
